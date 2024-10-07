@@ -7,7 +7,7 @@ Fetch random user profiles from an API
 Display user details (name, email, address, UUID, picture)
 Button to fetch a new random user & appreciate
 
-Live on Vercel : 
+Live on Vercel : https://random-user-generator-30-days-of30-projects-next-js.vercel.app/
 
 
 
